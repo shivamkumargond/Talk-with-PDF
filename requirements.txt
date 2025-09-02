@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pyPDF2
+langchain_google_genai
+langchain
+langchain_community
